@@ -101,10 +101,10 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
     <tbody>
       <tr>
         <td>01</td>
-        <td><a href="./projects/barbearia__alura/README.md">Barbearia</a></td>
+        <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/barbearia__alura"
-            ><img width="400px" src="./.github/barbearia__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
