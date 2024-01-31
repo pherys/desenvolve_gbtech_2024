@@ -110,82 +110,82 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
       </tr>
       <tr>
         <td>02</td>
-        <td><a href="./projects/alurinha__alura/README.md">Alurinha</a></td>
+     <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/alurinha__alura/"
-            ><img width="400px" src="./.github/alurinha__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
       <tr>
         <td>03</td>
-        <td><a href="./projects/apeperia__alura/README.md">Apeperia</a></td>
+       <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/apeperia__alura"
-            ><img width="400px" src="./.github/apeperia__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
       <tr>
         <td>04</td>
-        <td><a href="./projects/monitoria__01/README.md">Monitoria 01</a></td>
+      <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/monitoria__01"
-            ><img width="400px" src="./.github/monitoria__01__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
       <tr>
         <td>05</td>
-        <td><a href="./projects/midi__alura/README.md">Alura MIDI</a></td>
+     <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/midi__alura"
-            ><img width="400px" src="./.github/midi__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
       <tr>
         <td>06</td>
-        <td><a href="./projects/telefone__alura/README.md">Alura FONE</a></td>
+      <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/telefone__alura"
-            ><img width="400px" src="./.github/alurafone__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
       <tr>
         <td>07</td>
-        <td><a href="./projects/robotron__2000/README.md">Robotron 2000</a></td>
+     <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/robotron__2000"
-            ><img width="400px" src="./.github/robotron__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
       <tr>
         <td>08</td>
-        <td><a href="./projects/petshop__doguito/README.md">PetShop Doguito</a></td>
+   <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/petshop__doguito/cadastro.html"
-            ><img width="400px" src="./.github/petshop__doguito__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
       <tr>
         <td>09</td>
-        <td><a href="./projects/books__alura/README.md">Books Alura</a></td>
+      <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="https://barbaraishioka.github.io/desenvolve__gbtech__2023/projects/books__alura"
-            ><img width="400px" src="./.github/books__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>
       <tr>
         <td>10</td>
-        <td><a href="./projects/petshop__crud/admin/README.md">PetShop Doguito CRUD</a></td>
+       <td><a href="./projects/figma__alura/README.md">Figma</a></td>
         <td align="center">
-          <a href="./projects/petshop__crud/admin/README.md"
-            ><img width="400px" src="./.github/petshop__crud__preview.png"
+          <a href=""
+            ><img width="400px" src="./.github/"
           /></a>
         </td>
       </tr>                                           
