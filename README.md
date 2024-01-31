@@ -250,151 +250,145 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
       </tr>
       <tr>
         <td align="center">4</td>
-        <td>Figma: construindo o layout do seu site mobile</td>
-        <td align="center">10</td>
+        <td>JavaScript e HTML: desenvolva um jogo e pratique lógica de programação</td>
+        <td align="center">16</td>
         <td>UX</td>
       </tr>
       <tr>
         <td align="center">4</td>
-        <td>Figma: conhecendo componentes da interface</td>
+        <td></td>
         <td align="center">10</td>
         <td>UX</td>
       </tr>
       <tr>
         <td align="center">5</td>
-        <td>Figma: projete sites para diversas telas</td>
+        <td></td>
         <td align="center">8</td>
         <td>UX</td>
       </tr>
       <tr>
         <td align="center">5</td>
-        <td>Design System: projetando elementos</td>
+        <td></td>
         <td align="center">8</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">6</td>
-        <td>Design System: criando componentes e documentando</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">6</td>
-        <td>Figma: Trabalhando na construção de um Design System</td>
+        <td></td>
         <td align="center">12</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">7</td>
-        <td>Tipografia: conhecendo o que há por trás dos tipos</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">7</td>
-        <td>HTTP: Entendendo a web por baixo dos panos</td>
+        <td></td>
         <td align="center">14</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">8</td>
-        <td>
-          Javascript e HTML: desenvolva um jogo e pratique lógica de programação
-        </td>
+        <td></td>
         <td align="center">16</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">9</td>
-        <td>
-          Javascript e HTML: pratique lógica com desenhos, animações e um jogo
-        </td>
+        <td> </td>
         <td align="center">10</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">9</td>
-        <td>
-          Arquitetura de computadores: por trás de como seu programa funciona
-        </td>
+        <td> </td>
         <td align="center">8</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">10</td>
-        <td>JavaScript: tipos, variáveis e funções</td>
+        <td></td>
         <td align="center">12</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">10</td>
-        <td>JavaScript: Arrays</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">11</td>
-        <td>JavaScript: objetos</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">11</td>
-        <td>JavaScript: programação orientada a objetos</td>
+        <td>s</td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">12</td>
-        <td>JavaScript para Web: Crie páginas dinâmicas</td>
+        <td></td>
         <td align="center">8</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">12</td>
-        <td>JavaScript: manipulando o DOM</td>
+        <td></td>
         <td align="center">8</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">13</td>
-        <td>Git e GitHub: repositório, commit e versões</td>
+        <td></td>
         <td align="center">8</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">13</td>
-        <td>JavaScript na Web: validação de Formulários e HTML5</td>
+        <td></td>
         <td align="center">8</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">14</td>
-        <td>JavaScript: consumindo e tratando dados de uma API</td>
+        <td>/td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">14</td>
-        <td>JS na web: CRUD com JavaScript assíncrono</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">15</td>
-        <td>SQL com MySQL: manipule e consulte dados</td>
+        <td></td>
         <td align="center">12</td>
         <td>Back end</td>
       </tr>
       <tr>
         <td align="center">15</td>
-        <td>Consultas SQL: avançando no SQL com MySQL</td>
+        <td></td>
         <td align="center">14</td>
         <td>Back end</td>
       </tr>
       <tr>
         <td align="center">16</td>
-        <td>MongoDB: uma alternativa aos bancos relacionais tradicionais</td>
+        <td></td>
         <td align="center">9</td>
         <td>Back end</td>
       </tr>
