@@ -1,3 +1,5 @@
+Este conteúdo que será atualizado durante o programa teve como fonte o repositório https://github.com/barbaraishioka/desenvolve__gbtech__2023.git
+
 <br />
 <div id="top" align="center">
   <h1>Programa Desenvolve 4ª Edição - 2024</h1>
