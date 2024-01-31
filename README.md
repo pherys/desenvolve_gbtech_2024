@@ -214,38 +214,38 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
     <tbody>
       <tr>
         <td align="center">1</td>
-        <td>HTML5 e CSS3 parte 1: A primeira página da Web</td>
+        <td>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</td>
         <td align="center">8</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">1</td>
-        <td>HTML5 e CSS3 parte 2: Posicionamento, listas e navegação</td>
+        <td>HTML e CSS: Classes, posicionamento e Flexbox</td>
         <td align="center">8</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">2</td>
-        <td>HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas</td>
+        <td>HTML e CSS: cabeçalho, footer e variáveis CSS</td>
         <td align="center">8</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">2</td>
-        <td>HTML5 e CSS3 parte 4: Avançando no CSS</td>
+        <td>HTML e CSS: trabalhando com responsividade e publicação de projetos</td>
         <td align="center">8</td>
         <td>Inicial</td>
       </tr>
       <tr>
         <td align="center">3</td>
-        <td>Flexbox: Posicione elementos na tela</td>
-        <td align="center">9</td>
+        <td>HTML e CSS: responsividade com mobile-first</td>
+        <td align="center">12</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">3</td>
-        <td>Layouts Responsivos: Trabalhando com layouts mobile</td>
-        <td align="center">7</td>
+        <td>Git e GitHub: compartilhando e colaborando em projetos/td>
+        <td align="center">8</td>
         <td>Inicial</td>
       </tr>
       <tr>
