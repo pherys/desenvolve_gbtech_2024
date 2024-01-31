@@ -394,103 +394,103 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
       </tr>
       <tr>
         <td align="center">16</td>
-        <td>Node.js: criando sua primeira biblioteca</td>
+        <td></td>
         <td align="center">9</td>
         <td>Back end</td>
       </tr>
       <tr>
         <td align="center">17</td>
-        <td>Node.js: API Rest com Express e MongoDB</td>
+        <td></td>
         <td align="center">10</td>
         <td>Back end</td>
       </tr>
       <tr>
         <td align="center">17</td>
-        <td>ORM com NodeJS: API com Sequelize e MySQL</td>
+        <td></td>
         <td align="center">12</td>
         <td>Back end</td>
       </tr>
       <tr>
         <td align="center">18</td>
-        <td>ORM com NodeJS: avançando nas funcionalidades do Sequelize</td>
+        <td></td>
         <td align="center">9</td>
         <td>Back end</td>
       </tr>
       <tr>
         <td align="center">18</td>
-        <td>Node.js e JWT: autenticação com tokens</td>
+        <td></td>
         <td align="center">9</td>
         <td>Back end</td>
       </tr>
       <tr>
         <td align="center">19</td>
-        <td>TypeScript parte 1: evoluindo seu JavaScript</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">19</td>
-        <td>TypeScript parte 2: avançando na linguagem</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">20</td>
-        <td>Typescript parte 3: mais técnicas e boas práticas</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">20</td>
-        <td>Expressões regulares: capturando textos de forma mágica</td>
+        <td>/td>
         <td align="center">12</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">21</td>
-        <td>React: escrevendo com Typescript</td>
+        <td></td>
         <td align="center">12</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">21</td>
-        <td>React: lidando com arquivos estáticos</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">22</td>
-        <td>React: conhecendo a biblioteca React Router</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">22</td>
-        <td>React: integrando seu projeto React com APIs</td>
+        <td></td>
         <td align="center">8</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">23</td>
-        <td>React: gerenciando estado com Recoil</td>
+        <td></td>
         <td align="center">8</td>
         <td>Front end</td>
       </tr>
       <tr>
         <td align="center">23</td>
-        <td>LGPD: Conhecendo e entendendo seus impactos</td>
+        <td></td>
         <td align="center">10</td>
         <td>LGPD</td>
       </tr>
       <tr>
         <td align="center">24</td>
-        <td>Node.js: testes unitários e de integração</td>
+        <td></td>
         <td align="center">12</td>
         <td>Back end</td>
       </tr>
       <tr>
         <td align="center">24</td>
-        <td>React: testando os seus componentes</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
