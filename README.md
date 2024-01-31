@@ -244,32 +244,32 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
       </tr>
       <tr>
         <td align="center">3</td>
-        <td>Git e GitHub: compartilhando e colaborando em projetos/td>
+        <td>Git e GitHub: c,,,/ompartilhando e colaborando em projetos/td>
         <td align="center">8</td>
-        <td>Inicial</td>
+        <td>Versionamento</td>
       </tr>
       <tr>
         <td align="center">4</td>
         <td>JavaScript e HTML: desenvolva um jogo e pratique lógica de programação</td>
         <td align="center">16</td>
-        <td>UX</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td></td>
-        <td align="center">10</td>
-        <td>UX</td>
+        <td>Front end</td>
       </tr>
       <tr>
         <td align="center">5</td>
-        <td></td>
-        <td align="center">8</td>
+        <td>JavaScript: tipos, variáveis e funções</td>
+        <td align="center">16</td>
+        <td>Front end</td>
+      </tr>
+      <tr>
+        <td align="center">6</td>
+        <td>JavaScript: Arrays</td>
+        <td align="center">16</td>
         <td>UX</td>
       </tr>
       <tr>
-        <td align="center">5</td>
-        <td></td>
-        <td align="center">8</td>
+        <td align="center">6</td>
+        <td>JavaScript: objetos</td>
+        <td align="center">16</td>
         <td>Front end</td>
       </tr>
       <tr>
