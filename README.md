@@ -216,25 +216,25 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
         <td align="center">1</td>
         <td>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</td>
         <td align="center">8</td>
-        <td>Inicial</td>
+        <td>Front end</td>
       </tr>
       <tr>
         <td align="center">1</td>
         <td>HTML e CSS: Classes, posicionamento e Flexbox</td>
         <td align="center">8</td>
-        <td>Inicial</td>
+        <td>Front end</td>
       </tr>
       <tr>
         <td align="center">2</td>
         <td>HTML e CSS: cabeçalho, footer e variáveis CSS</td>
         <td align="center">8</td>
-        <td>Inicial</td>
+        <td>Front end</td>
       </tr>
       <tr>
         <td align="center">2</td>
         <td>HTML e CSS: trabalhando com responsividade e publicação de projetos</td>
         <td align="center">8</td>
-        <td>Inicial</td>
+        <td>Front end</td>
       </tr>
       <tr>
         <td align="center">3</td>
@@ -334,7 +334,7 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
       </tr>
       <tr>
         <td align="center">11</td>
-        <td>s</td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
@@ -364,7 +364,7 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
       </tr>
       <tr>
         <td align="center">14</td>
-        <td>/td>
+        <td></td>
         <td align="center">10</td>
         <td>Front end</td>
       </tr>
