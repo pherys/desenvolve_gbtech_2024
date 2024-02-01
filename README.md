@@ -17,7 +17,7 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
 
 <img
     width="100%"
-    src="./.github/pherys/Captura de tela 2024-02-01 135101.png" />
+    src="./.github/Captura de tela 2024-02-01 135101.png" />
 
   <p>
     Saiba mais sobre o Desenvolve:
