@@ -17,7 +17,7 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
 
 <img
     width="100%"
-    src="./.github/desenvolve__preview.png" />
+    src="./.github/pherys/desenvolve_gbtech_2024/blob/main/Captura%20de%20tela%202024-02-01%20135101.png" />
 
   <p>
     Saiba mais sobre o Desenvolve:
