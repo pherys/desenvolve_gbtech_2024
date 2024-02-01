@@ -12,7 +12,7 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
 
   <h3>
     O Desenvolve é um programa gratuito de formação e inclusão em tecnologia do
-    <b>Grupo Boticário</b> em parceria com a plataforma <b>Alura</b>.
+    <b>Grupo Boticário Tech</b> em parceria com a plataforma <b>Alura</b>.
   </h3>
 
 <img
@@ -85,8 +85,8 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
   <h2>Meus projetos</h2>
 
   <p>
-    Esse repositório tem como objetivo documentar minha trajetória durante o
-    programa desenvolve.
+    O objetivo deste repositório é demonstrar através dos projetos a jornada no
+    programa Desenvolve Boticário.
   </p>
   <br />
 
