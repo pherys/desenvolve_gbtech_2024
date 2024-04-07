@@ -17,7 +17,7 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
 
 <img
     width="100%"
-    src="./desenvolve_gbtech_2024/135101.png">
+    src="./.github/desenvolve_gbtech_2024/135101.png">
 
   <p>
     Saiba mais sobre o Desenvolve:
