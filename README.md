@@ -101,7 +101,7 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
     <tbody>
       <tr>
         <td>01</td>
-        <td><a href="./projects/figma__alura/README.md">Figma</a></td>
+        <td><a href="./2aulaFigma1">Figma</a></td>
         <td align="center">
           <a href=""
             ><img width="400px" src="./2aulaFigma1/488x550.png/"
