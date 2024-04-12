@@ -17,7 +17,7 @@ Este conteúdo que será atualizado durante o programa teve como fonte o reposit
 
 <img
     width="100%"
-    src="./github/135101.png" />
+    src="./135101.png" />
 
   <p>
     Saiba mais sobre o Desenvolve:
